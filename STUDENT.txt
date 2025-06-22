@@ -1,0 +1,3 @@
+APP_URL=http://localhost:9000/#/
+MAP_SERVICE_API_KEY=Q4nI7ps7VqeivqwR5L8h
+URL_HOST=https://mohamadfayyaz.github.io/StoryApp/#/
