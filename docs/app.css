@@ -6,12 +6,12 @@
 }
 
 :root {
-  --primary-color: #3A59D1;
+  --primary-color: #A86523;
   --primary-text-color: #fff;
-  --primary-hover-color: #7AC6D2;
-  --primary-shadow-color: #B5FCCD;
+  --primary-hover-color: #E9A319;
+  --primary-shadow-color: #FCEFCB;
 
-  --secondary-color: #3D90D7;
+  --secondary-color: #FCEFCB;
   --secondary-text-color: #fff;
 }
 
